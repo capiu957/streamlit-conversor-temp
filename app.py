@@ -1,5 +1,4 @@
-!pip install streamlit
-!pip install pyngrok
+
 
 # Configure o Streamlit e o Ngrok
 from pyngrok import conf, ngrok
